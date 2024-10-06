@@ -1,2 +1,2 @@
 # IP2024
-오와우
+Computer Vision
