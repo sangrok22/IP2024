@@ -1,5 +1,5 @@
 # IP2024
 Computer Vision
 ## Homework1
-![homework1](https://github.com/user-attachments/assets/31671327-c108-492a-8d29-a8c234a4cf9d){: width="100%" height="100%"}
+![homework1](https://github.com/user-attachments/assets/31671327-c108-492a-8d29-a8c234a4cf9d){: width="150%" height="150%"}
 
