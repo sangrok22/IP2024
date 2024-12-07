@@ -14,4 +14,4 @@ Computer Vision
 <br/>url: https://youtu.be/Gc2Y8Snqhas
 
 ## Homework5
-<img width="988" alt="homework5" src="https://github.com/user-attachments/assets/f775872c-10b1-459c-bda8-4a0a25455ea3">
+<img width="488" alt="homework5" src="https://github.com/user-attachments/assets/f775872c-10b1-459c-bda8-4a0a25455ea3">
